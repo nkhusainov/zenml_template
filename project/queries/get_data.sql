@@ -1,0 +1,1 @@
+SELECT * FROM `YOUR_PROJECT_ID.zenml_demo.dataset` LIMIT 1000
